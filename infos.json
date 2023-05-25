@@ -1,0 +1,13 @@
+{
+"displayName" : "ShareFolders",
+"author" : ["Borges"],
+"contributor" : [],
+"supportedAgent" : ["Windows"],
+"version" : "1",
+"licence" : "GPLv2",
+"description" : 
+    {
+        "fr" : "Share Folders",
+        "en" : "Share Folders"
+    }
+}
